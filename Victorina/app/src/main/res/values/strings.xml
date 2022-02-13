@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Heroes vs Villains</string>
+    <string name="start">Начать</string>
+    <string name="zanovo">Начать заново</string>
+    <string name="kol">Осталось</string>
+    <string name="textcontinue">Продолжить</string>
+</resources>

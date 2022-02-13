@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text0">Баки</string>
+    <string name="lvl1text1">Чёрная Пантера</string>
+    <string name="lvl1text2">Черная вдова</string>
+    <string name="lvl1text3">Человек-Паук</string>
+    <string name="lvl1text4">Гамора</string>
+    <string name="lvl1text5">Грут</string>
+    <string name="lvl1text6">Халк</string>
+    <string name="lvl1text7">Капитан Америка</string>
+    <string name="lvl1text8">Человек-Муравей</string>
+    <string name="lvl1text9">Ракета</string>
+    <string name="lvl1text10">Соколиный глаз</string>
+    <string name="lvl1text11">Сорвиголова</string>
+    <string name="lvl1text12">Звёздный Лорд</string>
+    <string name="lvl1text13">Доктор Стрэндж</string>
+    <string name="lvl1text14">Железный человек</string>
+    <string name="lvl1text15">Тор</string>
+    <string name="lvl1text16">Вижн</string>
+    <string name="lvl1text17">Дракс</string>
+    <string name="lvl1text18">Капитан Марвел</string>
+    <string name="lvl1text19">Сокол</string>
+    <string name="lvl1text20">Вонг</string>
+    <string name="lvl1text21">Росомаха</string>
+    <string name="lvl1text22">Альтрон</string>
+    <string name="lvl1text23">Хела</string>
+    <string name="lvl1text24">Уилсон Фиск</string>
+    <string name="lvl1text25">Локи</string>
+    <string name="lvl1text26">Малекит</string>
+    <string name="lvl1text27">Мистерио</string>
+    <string name="lvl1text28">Красный Череп</string>
+    <string name="lvl1text29">Доктор Осминог</string>
+    <string name="lvl1text30">Стервятник</string>
+    <string name="lvl1text31">Зелёный гоблин</string>
+    <string name="lvl1text32">Шокер</string>
+    <string name="lvl1text33">Веном</string>
+    <string name="lvl1text34">Джаггернаут</string>
+    <string name="lvl1text35">Доктор Дум</string>
+    <string name="lvl1text36">Мандарин</string>
+    <string name="lvl1text37">Носорог</string>
+    <string name="lvl1text38">Песочный человек</string>
+    <string name="lvl1text39">Ронан</string>
+    <string name="lvl1text40">Скорпион</string>
+    <string name="lvl1text41">Электро</string>
+
+</resources>
